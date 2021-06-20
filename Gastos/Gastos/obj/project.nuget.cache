@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLPrI139L9qUQVpGQBgn8TGhsttGCLuzUPC3ntJES9IuqwOszJ7RTnW4/8bZA1eXXhOELRu8EbVFh3rbQMICfA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\luisa\\source\\repos\\Gastos\\Gastos\\Gastos\\Gastos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote NETStandard.Library com a versão (>= 2.0.3)\r\n  - Encontradas 1 versões em Microsoft Visual Studio Offline Packages [Versão mais próxima: 1.6.0]",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote System.Numerics.Vectors com a versão (>= 4.5.0)\r\n  - Encontradas 2 versões em Microsoft Visual Studio Offline Packages [Versão mais próxima: 4.1.1]",
+      "libraryId": "System.Numerics.Vectors",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
